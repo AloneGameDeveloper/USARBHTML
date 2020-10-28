@@ -4,5 +4,12 @@
     </head>
     <body>
     <p>Test de evaluare HTML Nr.1. Varianta II. 26.10.2020</p>
+    <ol>
+            <li>Unu</li>
+            <li>Doi</li>
+            <li>Trei</li>
+            <li>Patru</li>
+            <li>Cini</li>
+        </ol>
     </body>
 </html>
