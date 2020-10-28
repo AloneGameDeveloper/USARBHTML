@@ -14,5 +14,17 @@
         <p><a href=http://usarb.md>USARB</a></p>
         <p><a href=http://orar.usarb.md><img src="usarb-meta.jpg" width="250" 
    height="200" ></a></p>
+   <table border="1">
+	<tr>
+		<td>Text</td>
+		<td>Text</td>
+        <td>Text</td>
+	</tr>
+	<tr>
+		<td>Text</td>
+		<td>Text</td>
+        <td>Text</td>
+	</tr>
+            </table>
     </body>
 </html>
