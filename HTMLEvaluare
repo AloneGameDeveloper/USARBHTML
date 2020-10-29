@@ -1,10 +1,15 @@
 <html>
 <head>
     <title>Lucrare de control PPW. Varianta II</title>
+    <style>
+   aaa {
+   text-decoration: underline; /* Подчеркивание заголовка */
+   }
+  </style>
     </head>
     <body>
-    <p>Test de evaluare HTML Nr.1. Varianta II. 26.10.2020</p>
-    <ol>
+        <p>Test de evaluare HTML Nr.1. <b>Varianta II</b>.<u>26.10.2020</u></p>
+    <ol type="1" start="10" reversed>
             <li>Unu</li>
             <li>Doi</li>
             <li>Trei</li>
@@ -14,7 +19,7 @@
         <p><a href=http://usarb.md>USARB</a></p>
         <p><a href=http://orar.usarb.md><img src="usarb-meta.jpg" width="250" 
    height="200" ></a></p>
-   <table border="1">
+   <table border="1" align=right cellpadding=50% >
 	<tr>
 		<td>Text</td>
 		<td>Text</td>
@@ -26,6 +31,7 @@
         <td>Text</td>
 	</tr>
             </table>
+        <p title="Aici este o imagine"><img src="usarb-meta.jpg" alt="Error" width=200px /></p>
 	    <form method="get">
   <label >Nume:</label> <input type="text" ><br><br>
             <label >Puncte:</label> <input type="text" id="fname" name="fname"><br><br>
